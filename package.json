@@ -11,6 +11,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+        "moment": "8.x"
   },
   "engines": {
     "node": "8.x"
